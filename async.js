@@ -3,8 +3,6 @@ function samplePromise(){
 
 }
 
-
-
 //jika Menggunkan extensi .js 
 async function run(){
     const name = await samplePromise();
